@@ -1,0 +1,2 @@
+# quva-yangiliklari
+# quva
